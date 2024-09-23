@@ -1,2 +1,2 @@
-def say_hello(user):
-    print('hello' + user + user)
+def say_hello(user,age):
+    print('hello' + user + age)
