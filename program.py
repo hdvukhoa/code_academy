@@ -1,2 +1,2 @@
-def say_hello(name):
-    print(f'hello {name}')
+def say_hello(user):
+    print(f'hello' + user)
